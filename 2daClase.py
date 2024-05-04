@@ -7,8 +7,8 @@ invitados = [
 i=0
 
 while i < 5:
-    fila = int(input())
-    columna = int(input())
+    fila = int(input("Inserta la linea: "))
+    columna = int(input("Inserta la columna: "))
 
 
 
